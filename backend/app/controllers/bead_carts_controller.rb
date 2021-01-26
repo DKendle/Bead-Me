@@ -1,0 +1,2 @@
+class BeadCartsController < ApplicationController
+end

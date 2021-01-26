@@ -1,0 +1,2 @@
+class BeadCart < ApplicationRecord
+end
