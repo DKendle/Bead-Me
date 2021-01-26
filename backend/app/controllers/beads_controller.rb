@@ -1,0 +1,2 @@
+class BeadsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class Bead < ApplicationRecord
+end
